@@ -1,0 +1,20 @@
+Fri Mar  4 01:15:10 2022
+
+dui,ha noi,123421,2001,tri
+ha,thanh tri,214123,2003,ha
+Fri Mar  4 01:16:20 2022
+
+
+Fri Mar  4 01:17:57 2022
+
+
+Fri Mar  4 01:18:33 2022
+
+dui,ha noi,123421,2001,tri
+ha,thanh tri,214123,2003,yeu duy
+
+Fri Mar  4 10:39:02 2022
+
+khac duy,ha noi,123145,1920,tuoi gia
+khac duy,me linh,123456,2004,covid
+thu huong,mo lao,123566,2003,tri
